@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revathi-Sathyulu
 - 👀 I’m interested in Oracle Fusion Cloud
-- 🌱 I’m currently learning CLoud Fusion Financials
+- 🌱 I’m currently learning Cloud Fusion Financials
 - 💞️ I’m looking to collaborate on AWS
 - 📫 Reach me on revathisa022@gmail.com
 - 😄 Pronouns: She/Her
